@@ -94,7 +94,7 @@ export default function Home() {
 
             <div className="hidden lg:block relative z-10">
               <div className="relative w-full h-full">
-                <div className="absolute top-1/2 left-0 transform -translate-y-[48%] -translate-x-[15%]">
+                <div className="absolute top-1/2 left-0 transform -translate-y-[46%] -translate-x-[15%]">
                   <div className="relative h-[49rem] w-[49rem]">
                     <Image
                       src="/assets/images/Influe_mobile_mockup.png"
