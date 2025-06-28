@@ -33,16 +33,10 @@ const Header = () => {
           </Link>
 
           <div className="hidden md:flex items-center space-x-8 text-menu font-figtree font-semibold text-lg">
-            <Link
-              href="/about"
-              className="hover:text-tertiary transition-colors"
-            >
+            <Link href="#" className="hover:text-tertiary transition-colors">
               About us
             </Link>
-            <Link
-              href="/contact"
-              className="hover:text-tertiary transition-colors"
-            >
+            <Link href="#" className="hover:text-tertiary transition-colors">
               Contact
             </Link>
           </div>
@@ -67,13 +61,13 @@ const Header = () => {
             >
               <div className="flex flex-col space-y-2.5 mt-8 px-4 font-figtree tracking-tight">
                 <Link
-                  href="/about"
+                  href="#"
                   className="text-white hover:text-gray-300 transition-colors font-medium text-lg"
                 >
                   About us
                 </Link>
                 <Link
-                  href="/contact"
+                  href="#"
                   className="text-white hover:text-gray-300 transition-colors font-medium text-lg"
                 >
                   Contact
