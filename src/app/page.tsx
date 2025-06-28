@@ -78,8 +78,8 @@ export default function Home() {
 
                 <div className="space-y-3 pt-14">
                   <p className="text-footer text-xs max-w-md">
-                    By clicking "Get Started", you agree with Terms and
-                    Conditions, Privacy Policy, Subscription Terms
+                    By clicking &quot;Get Started&quot;, you agree with Terms
+                    and Conditions, Privacy Policy, Subscription Terms
                   </p>
 
                   <p className="text-footer text-xs">
